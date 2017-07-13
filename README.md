@@ -13,7 +13,7 @@ The forecast model equations were implemented using the MATLAB software.
 # Instructions
 
 1. Download/clone the files 
-2. In MATLAB software, run the main file called ** ExecutarProjecao.m **
+2. In MATLAB software, run the main file called **ExecutarProjecao.m**
 3. In MATLAB *Command Window* you will see the results:
     * Revenue estimates
     * Expenditure estimates
