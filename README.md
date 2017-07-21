@@ -1,4 +1,4 @@
-# Brazilian Social Security Forecast Simulation Scripts (bss-sim)
+# Brazilian Social Security Forecast Simulation Scripts (bssf-sim)
 
 This project implements the long-term Social Security forecast model used by Brazilian Federal Government to estimates the revenues and expenses of National Pensions. 
 
